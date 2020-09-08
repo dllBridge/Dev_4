@@ -12,7 +12,7 @@ int  foo(),
 int main()                                         // 
 {
 	
-	printf("Hello, World ! 1_02");
+	printf("Hello, World ! 1_03");
 	printf("\nn = %d \n",  foo());     
 	getchar();
 }
@@ -27,7 +27,7 @@ int foo()                                          //
 	
 	
 	
-return 778;	
+return 77 + 8;	
 }
 
 
